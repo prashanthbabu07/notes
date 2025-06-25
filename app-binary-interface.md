@@ -55,7 +55,7 @@ int square_v1(point *p) {
     return p->x * p->x;
 }
 
-Who can break the ABI?
+Who can break the ABI? but ideally they gurantee not to break it.
 - Library developers. 
 - Compiler developers.
 - Operating system developers.
