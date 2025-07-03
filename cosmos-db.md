@@ -392,3 +392,30 @@ WHERE c._partitionKey = '12345'
    - Pre-calculate aggregates when possible
    - Accept some data redundancy for query performance
 
+In Cosmos DB, **efficient point reads require both `id` and partition key**. If you don’t know the partition key (`city`), you have two options, but both have trade-offs:
+
+### 1. Cross-partition query (not efficient)
+You can query by `id` only:
+```sql
+SELECT * FROM c WHERE c.id = "person123"
+```
+But this scans all partitions, which is **slow and costly**.
+
+---
+
+### 2. Store a mapping from `id` to partition key (recommended workaround)
+Maintain a **lookup/mapping container** or table where you store the mapping of `id` to `city`:
+```json
+{
+  "id": "person123",
+  "city": "London"
+}
+```
+- First, query this mapping to get the `city` for the `id`.
+- Then, use both `id` and `city` for an efficient point read in your main container.
+
+---
+
+### 3. Use a synthetic partition key (if possible)
+If you control document creation, you can create a synthetic partition key, e.g., `city_id: "London_person123"`, and use that as the partition key. This allows efficient lookups by a single value.
+

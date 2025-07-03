@@ -57,4 +57,25 @@ dotnet test --list
 Run specific test in a test project
 dotnet test MyTests/MyTests.csproj --filter "FullyQualifiedName~MyNamespace.MyTestClass.MyTestMethod"
 
+## Testing
 
+-- report generator
+dotnet tool install -g dotnet-reportgenerator-globaltool
+
+--install coverlet (coverlet is a cross-platform code coverage framework for .NET)
+dotnet tool install -g coverlet.console
+
+-- test using code converage settings
+dotnet test --settings CodeCoverage.runsettings --collect:"Code Coverage"
+
+--XPlat Code Coverage (XPlat Code Coverage is a cross-platform code coverage tool for .NET Core)
+dotnet test --collect:"XPlat Code Coverage"
+
+-- run tests with coverlet
+dotnet test MyTests/MyTests.csproj --collect:"XPlat Code Coverage" -- DataCollectionRunSettings.DataCollectors.Configuration.Format=cobertura
+-- run tests with coverlet and output to cobertura format
+
+dotnet test MyTests/MyTests.csproj --collect:"XPlat Code Coverage" -- DataCollectionRunSettings.DataCollectors.Configuration.Format=cobertura -- DataCollectionRunSettings.DataCollectors.Configuration.OutputDirectory=./TestResults
+
+-- report generator
+reportgenerator -reports:./TestResults/coverage.cobertura.xml -targetdir:./CodeCoverageReport -reporttypes:Html
