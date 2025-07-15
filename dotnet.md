@@ -1,5 +1,14 @@
 # dotnet 
 
+When installing dotnet we need sdk for development and runtime needed for running the app.
+
+There are 2 runtimes base runtime and asp runtime
+
+base runtime is used for running console apps
+asp runtime is needed for running asp web apps
+
+-------
+
 Create new solution
 dotnet new sln -n MySolution -- where MySolution is the name of the solution
 
