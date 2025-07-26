@@ -70,3 +70,8 @@ partial class TimeLineService : IEditMessage {
 
 and so on... this design makes the class extend without touching existing code and add capabilities without affecting others.
 
+This enables other developers to add capabilitites without worrying about other dev's adding their own capability.
+
+The interfaces should be specific such that the implementer can take what they are able to implement.
+
+
