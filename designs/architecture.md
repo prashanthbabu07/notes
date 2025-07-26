@@ -10,8 +10,6 @@ Why
 6. Are we okay to have service classes depend on other services classes?
 7. 
 
-@Derek Wade @Eric D. Boyd
-
 The reasoning behind using MediatR or similar pattern was to -
 
 Separation of request, validators and handlers.
