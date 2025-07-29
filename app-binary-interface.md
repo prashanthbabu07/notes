@@ -36,7 +36,7 @@ if there is a change in the structure of point, then the assembly code will brea
 struct {
     int z;
     int y;
-    int y; // New field added
+    int x; // New field added
 } point;
 
 This is a breakign change in the ABI because the layout of the structure had changed.
