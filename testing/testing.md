@@ -26,4 +26,17 @@ way of thinking but what are the downsides? tiny interfaces.
 Why You Mock user_exists
 To test business logic, validation, or service layer code without involving the real database.
 
+Interface segregation principal (ISP) is about client perspective and not implementors.
 
+What does it mean -
+A Person registration needs -
+Email Exists
+Add Person 
+
+A Admin panel needs
+Add Person
+Delete Person
+Edit Person
+Email Exists
+
+Having a tiny interface is much better than a fat interface.
