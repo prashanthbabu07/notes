@@ -39,4 +39,25 @@ Delete Person
 Edit Person
 Email Exists
 
-Having a tiny interface is much better than a fat interface.
+Having a tiny interface is much better than a fat interface. Take this example using C as example with header file.
+// person_repository.h
+
+#ifndef PERSON_REPOSITORY_H
+#define PERSON_REPOSITORY_H
+
+#include <stdbool.h>
+
+// --- ICanAddPerson Interface ---
+void add_person(const char* name, const char* email);
+
+// --- ICanDeletePerson Interface ---
+void delete_person(int id);
+
+// --- ICanCheckEmailExists Interface ---
+bool email_exists(const char* email);
+
+// --- ICanGetPerson Interface ---
+Person* get_person_by_id(int id);
+Person** get_all_persons(int* count);
+
+#endif
