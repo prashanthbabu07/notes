@@ -412,7 +412,8 @@ Maintain a **lookup/mapping container** or table where you store the mapping of 
 }
 ```
 - First, query this mapping to get the `city` for the `id`.
-- Then, use both `id` and `city` for an efficient point read in your main container.
+- Then, use both `id` and `
+city` for an efficient point read in your main container.
 
 ---
 

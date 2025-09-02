@@ -22,10 +22,13 @@ d2 - f2 - coomand/pr on day 3
     squash merge the feature branch - 
         (f2 - t1, t2, t3, t4....)
 
-    t1 to t1 would be as aif a single f2 commit and then merge to dev.????
+    t1 to t1 would be as if a single f2 commit and then merge to dev.????
 
 
-    
+ssh key gen for github
+ssh-keygen -t rsa -b 4096 -C ""
+# Add the SSH key to your GitHub account
+
 
 
 
