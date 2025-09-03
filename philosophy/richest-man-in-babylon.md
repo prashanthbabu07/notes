@@ -70,7 +70,7 @@ We cannot afford to be without adequate protection.
 Where the determination is, the way can be found.
     meaning: if you are determined to achieve your financial goals, you will find a way to do so.
 
-## Tablets from Babylon for debts repayment
+## Tablets from Babylon for debts repayment - Ideas to become debt free
 
 ### Tablet No 1
 One tenth of all I earn shall be set aside as my own to keep.
