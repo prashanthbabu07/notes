@@ -17,3 +17,7 @@ and see things from that person's angle as well as from your own.
 Make the other person feel that the idea is theirs.
 
 
+# How to make people like you
+
+
+## Become genuinely interested in other people.
