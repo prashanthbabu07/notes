@@ -35,4 +35,9 @@ Use people's names in conversation.
 It shows that you value and respect them.
 Make an effort to remember names.
 
+## Be a good listener. Encourage others to talk about themselves.
+People love to talk about themselves.
+Ask open-ended questions and show genuine interest in their responses.
+Avoid interrupting or dominating the conversation.
+
 
