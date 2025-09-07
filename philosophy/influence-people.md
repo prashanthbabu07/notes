@@ -1,6 +1,6 @@
 # Influence People
 
-# Principles 
+# Principles - Techniques for handling people 
 
 ## Don't critize; Don't complain; Don't condemn.
 Put yourself in the other person's shoes.
@@ -17,7 +17,7 @@ and see things from that person's angle as well as from your own.
 Make the other person feel that the idea is theirs.
 
 
-# How to make people like you
+# Principles - How to make people like you
 
 
 ## Become genuinely interested in other people.
