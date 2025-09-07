@@ -21,3 +21,18 @@ Make the other person feel that the idea is theirs.
 
 
 ## Become genuinely interested in other people.
+People are more interested in themselves than in you.
+Show interest in them and their interests.
+Ask questions about their lives, families, and interests.
+Listen actively and attentively.
+
+## Smile.
+A smile is a powerful tool for making a good first impression.
+It conveys warmth, friendliness, and approachability.
+
+## Remember that a person's name is to that person the sweetest and most important sound in any language.
+Use people's names in conversation.
+It shows that you value and respect them.
+Make an effort to remember names.
+
+
