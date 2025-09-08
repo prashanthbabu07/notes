@@ -40,4 +40,8 @@ People love to talk about themselves.
 Ask open-ended questions and show genuine interest in their responses.
 Avoid interrupting or dominating the conversation.
 
+## Talk in terms of the other person's interests.
+Find out what the other person is interested in and talk about those topics.
+It shows that you care about their interests and helps build rapport.
+
 
