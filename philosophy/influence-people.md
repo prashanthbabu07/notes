@@ -44,4 +44,9 @@ Avoid interrupting or dominating the conversation.
 Find out what the other person is interested in and talk about those topics.
 It shows that you care about their interests and helps build rapport.
 
+## Make the other person feel important - and do it sincerely.
+Everyone wants to feel important and valued.
+Show genuine appreciation and respect for the other person.
+Avoid flattery or insincerity.
+
 
