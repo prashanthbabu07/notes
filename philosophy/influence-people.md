@@ -49,4 +49,19 @@ Everyone wants to feel important and valued.
 Show genuine appreciation and respect for the other person.
 Avoid flattery or insincerity.
 
+# Principles - How to win people to your way of thinking
 
+## The only way to get the best of an argument is to avoid it.
+Arguments often lead to resentment and defensiveness.
+Instead, seek to understand the other person's perspective and find common ground.
+
+### How to keep a disagreement from becoming an argument:
+Welcome the disagreement.
+Distrust you first instinctive impression.
+Control your temper.
+Listen first.
+Look for areas of agreement.
+Be honest and sincere.
+Promise to think over your opponent's ideas and study them carefully.
+Thank your opponent sincerely for their interest.
+Postpone action to give both sides time to think through the problem.
