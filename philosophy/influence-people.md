@@ -65,3 +65,10 @@ Be honest and sincere.
 Promise to think over your opponent's ideas and study them carefully.
 Thank your opponent sincerely for their interest.
 Postpone action to give both sides time to think through the problem.
+
+
+## Show respect for the other person's opinions. Never say, "you're wrong."
+I've made many mistakes in my life. 
+If I thought I was always right, I'd never learn anything new.
+I conceive, I apprehend, I imagine. instead of "I know."
+
