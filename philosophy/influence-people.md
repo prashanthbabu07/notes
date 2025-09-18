@@ -72,3 +72,6 @@ I've made many mistakes in my life.
 If I thought I was always right, I'd never learn anything new.
 I conceive, I apprehend, I imagine. instead of "I know."
 
+## If you are wrong, admit it quickly and emphatically.
+It's much easier to listen to a person who admits they are wrong than one who is always right.
+Admitting your mistakes shows humility and builds trust.
