@@ -33,7 +33,7 @@ Men of action are favoured by the goddess of good luck.
 
 ## Five laws of gold
 1. Gold comes gladly and in increasing quantity to any man who will put by not less than one-tenth of his earning to create 
-an estate for his futuer and that of his family.
+an estate for his future and that of his family.
     meaning: save at least 10% of your income.
 
 2. Gold labors diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as 
