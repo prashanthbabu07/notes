@@ -93,4 +93,8 @@ Ask open-ended questions and listen actively.
 People are more likely to support ideas that they feel ownership of.
 Present your ideas in a way that allows the other person to see how they align with their own interests and values.
 
+## Try honestly to see things from the other person's point of view.
+Empathy is a powerful tool for building understanding and rapport.
+Make an effort to understand the other person's perspective and feelings.
+
 
