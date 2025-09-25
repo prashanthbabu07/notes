@@ -75,3 +75,22 @@ I conceive, I apprehend, I imagine. instead of "I know."
 ## If you are wrong, admit it quickly and emphatically.
 It's much easier to listen to a person who admits they are wrong than one who is always right.
 Admitting your mistakes shows humility and builds trust.
+
+## Begin in a friendly way.
+A friendly approach sets a positive tone for the conversation.
+It helps to build rapport and makes the other person more receptive to your ideas.
+
+## Get the other person saying "yes, yes" immediately.
+Start with questions or statements that the other person agrees with.
+This creates a positive momentum and makes it easier to introduce your ideas.
+
+## Let the other person do a great deal of the talking.
+People like to feel heard and understood.
+Encourage them to share their thoughts and feelings.
+Ask open-ended questions and listen actively.
+
+## Let the other person feel that the idea is theirs.
+People are more likely to support ideas that they feel ownership of.
+Present your ideas in a way that allows the other person to see how they align with their own interests and values.
+
+
