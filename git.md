@@ -33,4 +33,15 @@ ssh-keygen -t rsa -b 4096 -C ""
 
 
 
+# Git rebase 
+git fetch origin
+git checkout <feature-branch>
+git rebase origin/develop
 
+Resolve Any Conflicts
+
+git add <file-with-conflict>
+git rebase --continue
+
+# --force-with-lease ensures you don't overwrite any remote changes
+git push origin <feature-branch> --force-with-lease
