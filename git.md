@@ -45,3 +45,6 @@ git rebase --continue
 
 # --force-with-lease ensures you don't overwrite any remote changes
 git push origin <feature-branch> --force-with-lease
+
+# Abort a rebase in progress
+git rebase --abort
