@@ -420,3 +420,14 @@ city` for an efficient point read in your main container.
 ### 3. Use a synthetic partition key (if possible)
 If you control document creation, you can create a synthetic partition key, e.g., `city_id: "London_person123"`, and use that as the partition key. This allows efficient lookups by a single value.
 
+
+## permissions to perform action [Microsoft.DocumentDB/databaseAccounts/readMetadata]
+
+`
+az cosmosdb sql role assignment create \
+    --account-name "cosmos-learning-db" \
+    --resource-group "<YourResourceGroupName>" \
+    --scope "/" \
+    --principal-id "291805eb-c97d-4c61-87ac-280fec559178" \
+    --role-definition-name "Cosmos DB Built-in Data Contributor"
+`
