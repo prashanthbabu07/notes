@@ -18,8 +18,19 @@ We need ability to communicate the state back to the calling service.
 
 All of these needs to utilize Azure cloud services.
 
+All files should go through security scan first.
+[Blob Storage] -> [Security Scan Function] -> [Scan Output]
+
+
+[Blob Storage] -> [Image to metadata function] -> [Metadata Output]
+
 [Blob Storage] -> [Image to text function] -> [Text Output]
+
 [Blob Storage] -> [Audio to text function] -> [Text Output]
+
+[Blob Storage] -> [Audio to metadata function] -> [Metadata Output]
+
+[Blob Storage] -> [Video to metadata function] -> [Metadata Output]
 
 [Blob Storage] -> 
     -> [Video to image function]
