@@ -4,4 +4,4 @@ brew install bclm
 bclm
 
 # Set the charge threshold to 80%
-sudo bclm write 77
+sudo bclm write 80
