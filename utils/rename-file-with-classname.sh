@@ -11,3 +11,9 @@ find . -type f -name "*.cs" | while read -r file; do
         fi
     fi
 done
+
+
+for file in *.cs; do
+    class_name="${file%.cs}"
+    echo "services.AddScoped<${class_name}>();"
+done
