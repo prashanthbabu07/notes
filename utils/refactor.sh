@@ -10,8 +10,13 @@ replace_field() {
     echo "Replacing '${esc_field}.' with '${param}.' in $file"
     # Only replace _fieldName. (optionally with spaces before dot) with paramName.
     # Do NOT replace if _fieldName is followed by a semicolon or anything other than a dot
+   
     # This will NOT match _fieldName; or _fieldName = etc.
-    perl -pi -e "s/(${esc_field})\s*\./${param}./g" "$file"
+    # perl -pi -e "s/(${esc_field})\s*\./${param}./g" "$file"
+    
+    # replace field i.e. _fieldName with param name
+    # perl -pi -e "s/(${esc_field})(?![a-zA-Z0-9_]*[;=])/${param}/g" "$file"
+
 }
 
 export -f replace_field
